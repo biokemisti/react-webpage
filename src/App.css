@@ -1,0 +1,13 @@
+#root {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  text-align: center;
+  background: rgb(248, 248, 248);
+}
+
+.logo {
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
